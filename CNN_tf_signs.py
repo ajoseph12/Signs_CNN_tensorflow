@@ -15,8 +15,8 @@ class CNN_train(object):
 		X_train, X_val, Y_train, Y_val, print_cost = True):
 
 		"""
-		The CNN_train class is initialized with its arguments when its 
-		instance is created.
+		The CNN_train class is initialized with its arguments when an 
+		instance of the class is created.
 		"""
 
 		tf.reset_default_graph()
